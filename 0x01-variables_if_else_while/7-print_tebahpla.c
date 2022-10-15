@@ -3,7 +3,7 @@
  * main - Prints the alphabet at reverse
  * Return: Always (Success)
  */
-intmain(void)
+int main(void)
 {
 	char c;
 
