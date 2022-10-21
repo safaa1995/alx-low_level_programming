@@ -1,11 +1,10 @@
 #include "main.h"
 
- /**
-  * print_triangle -  checks for checks for a digit (0 through 9).
-  * @size: size -  Variable
-  * Return: Always 0.
-  */
-
+/**
+ *   print_triangle -  checks for checks for a digit (0 through 9).
+ *   @size: size -  Variable
+ *   Return: Always 0
+ */
 void print_triangle(int size)
 {
 	int x, y;
