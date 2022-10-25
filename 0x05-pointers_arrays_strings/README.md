@@ -66,3 +66,17 @@ Write a function that copies the string pointed to by src, including the termina
 Return value: the pointer to dest
 
 FYI: The standard library provides a similar function: strcpy. Run man strcpy to learn more.
+
+
+10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+
+#advanced
+
+Write a function that convert a string to an integer.
+
+
+11. Don't hate the hacker, hate the code
+
+#advanced
+
+Create a program that generates random valid passwords for the program 101-crackme.
