@@ -5,18 +5,7 @@
  * @c: parameter is hard-coded in main function
  * Return: 0 or 1
  */
-
-int _isalpha(int c)
+char *_strpbrk(char *s, char *accept)
 {
-	int i;
 
-	if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'))
-	{
-		i = 1;
-	}
-	else
-	{
-		i = 0;
-	}
-	return (i);
 }
