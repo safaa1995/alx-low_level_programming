@@ -6,7 +6,7 @@
  * @c: parameter is hard-coded in main function
  * Return: 0 or 1
  */
-char *_strpbrk(char *is, char *accept)
+char *_strpbrk(char *s, char *accept)
 {
 	int size = 0;
 	char *ptr = s;
